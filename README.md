@@ -1,16 +1,18 @@
 # calculator_app
+A fully functional Calculator App built with Flutter. The app supports basic arithmetic operations and provides a clean, responsive, and user-friendly interface. Users can also toggle between Dark and Light modes.
 
-A new Flutter project.
+Features
 
-## Getting Started
+Basic Arithmetic Operations: Addition, Subtraction, Multiplication, Division, Percentage
 
-This project is a starting point for a Flutter application.
+Decimal Support
 
-A few resources to get you started if this is your first Flutter project:
+Toggle Sign (+/-)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clear (AC) Button
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dark/Light Mode
+
+Responsive Layout suitable for all screen sizes
+
+User-friendly and Clean UI
